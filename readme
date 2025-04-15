@@ -1,0 +1,15 @@
+Para todos os script deve-se rodar os seguintes comandos:
+
+```bash
+chmod +X NomeDoScript.sh
+```
+
+```bash
+cp ./NomeDoScript.sh /usr/local/bin/NomeDoScript
+```
+
+Após isso todos os scripts pode ser chamdos de forma global apenas pelo nome. Ex:
+
+```bash
+NomeDoScript
+```
